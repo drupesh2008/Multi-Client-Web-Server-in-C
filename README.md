@@ -3,8 +3,11 @@ A simple web server with the implementation of GET and HEAD Requests.
 
 /*  INSTRUCTIONS
 
-To start the server : gcc web_server.c
-                    : ./a.out             || Default it will open at port no. 10000
+To start the server :-
+gcc web_server
+./a.out             
+
+Default it will open at port no. 10000
    
    :-> In case that port number is already in use change the port no by using -p as shown below :-
 
